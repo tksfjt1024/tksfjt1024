@@ -14,13 +14,13 @@
 ### WakaTime Stats
 
 <!--START_SECTION:waka-->
-
 ```text
-Python       13 hrs          █████████▒░░░░░░░░░░░░░░░   36.82 %
-Ruby         6 hrs 6 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
-YAML         3 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-TypeScript   2 hrs 41 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-Bash         2 hrs 37 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-```
+Week: 18 October, 2021 - 24 October, 2021
 
+Python       13 hrs          █████████▒░░░░░░░░░░░░░░░   36.82 % 
+Ruby         6 hrs 6 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.32 % 
+YAML         3 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+TypeScript   2 hrs 41 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Bash         2 hrs 37 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+```
 <!--END_SECTION:waka-->
