@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 November, 2021 - 08 November, 2021
+Week: 03 November, 2021 - 09 November, 2021
 
 Ruby         11 hrs 47 mins  █████████████▒░░░░░░░░░░░   53.48 % 
 TeX          4 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.89 % 
