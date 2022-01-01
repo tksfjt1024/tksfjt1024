@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2021 - 30 December, 2021
+Week: 25 December, 2021 - 31 December, 2021
 
 Ruby         8 hrs 58 mins   ███████████████░░░░░░░░░░   59.83 % 
 Makefile     2 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.32 % 
