@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2022 - 29 January, 2022
+Week: 24 January, 2022 - 30 January, 2022
 
 YAML         11 hrs 21 mins  █████████▓░░░░░░░░░░░░░░░   38.73 % 
 Slim         9 hrs 26 mins   ████████░░░░░░░░░░░░░░░░░   32.22 % 
