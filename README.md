@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 February, 2022 - 19 February, 2022
+Week: 14 February, 2022 - 20 February, 2022
 
 Python       28 hrs          ██████████████░░░░░░░░░░░   55.75 % 
 Ruby         8 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.97 % 
