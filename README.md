@@ -15,13 +15,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 February, 2022 - 23 February, 2022
+Week: 18 February, 2022 - 24 February, 2022
 
-Python       38 hrs 55 mins  ██████████████████▓░░░░░░   74.04 % 
-Ruby         5 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-YAML         3 hrs 48 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Bash         2 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-TypeScript   1 hr 49 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Python       42 hrs 42 mins  ████████████████████▒░░░░   80.81 % 
+Ruby         5 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+YAML         3 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Bash         1 hr 34 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+TypeScript   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 <!--END_SECTION:waka-->
