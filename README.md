@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 March, 2022 - 09 March, 2022
+Week: 04 March, 2022 - 10 March, 2022
 
 Python       10 hrs 57 mins  ██████████▓░░░░░░░░░░░░░░   42.36 % 
 Ruby         6 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
