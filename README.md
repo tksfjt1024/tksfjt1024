@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 May, 2022 - 07 May, 2022
+Week: 02 May, 2022 - 08 May, 2022
 
 Ruby         2 hrs 59 mins   ███████████▓░░░░░░░░░░░░░   46.12 % 
 TypeScript   1 hr 49 mins    ███████░░░░░░░░░░░░░░░░░░   28.15 % 
