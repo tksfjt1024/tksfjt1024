@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 May, 2022 - 28 May, 2022
+Week: 23 May, 2022 - 29 May, 2022
 
 Ruby         8 hrs 41 mins   ████████████████████░░░░░   79.42 % 
 Text         1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
