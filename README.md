@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 June, 2022 - 24 June, 2022
+Week: 19 June, 2022 - 25 June, 2022
 
 Ruby         4 hrs 2 mins    █████████▓░░░░░░░░░░░░░░░   39.31 % 
 Python       2 hrs 15 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.86 % 
