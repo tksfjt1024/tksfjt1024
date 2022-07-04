@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 June, 2022 - 02 July, 2022
+Week: 27 June, 2022 - 03 July, 2022
 
 TypeScript   8 hrs 7 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.83 % 
 Python       7 hrs 39 mins   ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
