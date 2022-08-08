@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 July, 2022 - 06 August, 2022
+Week: 01 August, 2022 - 07 August, 2022
 
 Python       13 hrs 8 mins   █████████▓░░░░░░░░░░░░░░░   38.48 % 
 Ruby         10 hrs 55 mins  ████████░░░░░░░░░░░░░░░░░   31.98 % 
