@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 August, 2022 - 27 August, 2022
+Week: 22 August, 2022 - 28 August, 2022
 
 Ruby         12 hrs 34 mins  ██████████████░░░░░░░░░░░   56.16 % 
 TypeScript   4 hrs 42 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
