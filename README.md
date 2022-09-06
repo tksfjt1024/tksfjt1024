@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 August, 2022 - 04 September, 2022
+Week: 30 August, 2022 - 05 September, 2022
 
 Ruby         11 hrs 34 mins  ████████████████▓░░░░░░░░   66.68 % 
 YAML         2 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
