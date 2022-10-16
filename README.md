@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 October, 2022 - 14 October, 2022
+Week: 09 October, 2022 - 15 October, 2022
 
 Python       7 hrs 55 mins   █████████░░░░░░░░░░░░░░░░   36.16 % 
 TypeScript   3 hrs 25 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
