@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 October, 2022 - 04 November, 2022
+Week: 30 October, 2022 - 05 November, 2022
 
 Ruby         8 hrs 11 mins   ██████████████▒░░░░░░░░░░   57.14 % 
 Markdown     2 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.92 % 
