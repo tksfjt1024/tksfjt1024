@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 November, 2022 - 11 November, 2022
+Week: 06 November, 2022 - 12 November, 2022
 
 Ruby         6 hrs 46 mins   ██████████████░░░░░░░░░░░   55.62 % 
 Python       2 hrs 23 mins   █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
