@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2022 - 17 December, 2022
+Week: 12 December, 2022 - 18 December, 2022
 
 Ruby         11 hrs 23 mins  ██████████████░░░░░░░░░░░   55.83 % 
 TypeScript   5 hrs 11 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.47 % 
