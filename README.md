@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 December, 2022 - 31 December, 2022
+Week: 26 December, 2022 - 01 January, 2023
 
 Other      41 hrs 9 mins   █████████████████░░░░░░░░   68.66 % 
 TeX        6 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
