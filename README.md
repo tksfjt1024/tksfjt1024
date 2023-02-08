@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2023 - 06 February, 2023
+Week: 01 February, 2023 - 07 February, 2023
 
 Other        80 hrs 19 mins  ███████████████▓░░░░░░░░░   63.05 % 
 Python       41 hrs 48 mins  ████████▒░░░░░░░░░░░░░░░░   32.81 % 
