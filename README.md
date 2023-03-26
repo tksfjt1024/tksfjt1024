@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 March, 2023 - 24 March, 2023
+Week: 19 March, 2023 - 25 March, 2023
 
 Ruby         1 hr 55 mins    ██████████████▒░░░░░░░░░░   57.18 % 
 Text         27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 % 
