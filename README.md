@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 April, 2023 - 07 April, 2023
+Week: 02 April, 2023 - 08 April, 2023
 
 Ruby         5 hrs 35 mins   █████████▒░░░░░░░░░░░░░░░   36.73 % 
 YAML         5 hrs           ████████▒░░░░░░░░░░░░░░░░   32.91 % 
