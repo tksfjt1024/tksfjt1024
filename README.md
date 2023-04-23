@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 April, 2023 - 21 April, 2023
+Week: 16 April, 2023 - 22 April, 2023
 
 Ruby         8 hrs 39 mins   █████████████▓░░░░░░░░░░░   54.88 % 
 TypeScript   2 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
