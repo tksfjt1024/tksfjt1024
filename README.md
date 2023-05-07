@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 April, 2023 - 05 May, 2023
+Week: 30 April, 2023 - 06 May, 2023
 
 Ruby         1 hr 49 mins    ██████████████░░░░░░░░░░░   55.37 % 
 Other        1 hr 25 mins    ██████████▓░░░░░░░░░░░░░░   43.32 % 
