@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 May, 2023 - 13 May, 2023
+Week: 08 May, 2023 - 14 May, 2023
 
 Other        8 hrs 12 mins   ███████████▒░░░░░░░░░░░░░   45.26 % 
 Ruby         3 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.64 % 
