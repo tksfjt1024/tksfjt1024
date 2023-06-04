@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 May, 2023 - 02 June, 2023
+Week: 28 May, 2023 - 03 June, 2023
 
 Ruby         5 hrs 15 mins   ████████████▒░░░░░░░░░░░░   48.71 % 
 YAML         2 hrs 2 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.90 % 
