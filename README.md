@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 June, 2023 - 09 June, 2023
+Week: 04 June, 2023 - 10 June, 2023
 
 Other        32 hrs 51 mins  ███████████████████▒░░░░░   77.50 % 
 Ruby         4 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
