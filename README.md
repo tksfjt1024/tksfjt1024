@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 June, 2023 - 17 June, 2023
+Week: 12 June, 2023 - 18 June, 2023
 
 Other        7 hrs 49 mins   ████████▓░░░░░░░░░░░░░░░░   34.57 % 
 Python       6 hrs 55 mins   ███████▓░░░░░░░░░░░░░░░░░   30.57 % 
