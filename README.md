@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 June, 2023 - 01 July, 2023
+Week: 26 June, 2023 - 02 July, 2023
 
 Ruby         8 hrs 5 mins    ███████████████████████▒░   93.33 % 
 Slim         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
