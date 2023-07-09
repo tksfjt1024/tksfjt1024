@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 July, 2023 - 07 July, 2023
+Week: 02 July, 2023 - 08 July, 2023
 
 Ruby         12 hrs 30 mins  ███████████████████▓░░░░░   78.74 % 
 Other        1 hr 40 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
