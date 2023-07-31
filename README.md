@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 July, 2023 - 29 July, 2023
+Week: 24 July, 2023 - 30 July, 2023
 
 Ruby         11 hrs 41 mins  ██████████████▓░░░░░░░░░░   58.54 % 
 TypeScript   2 hrs 38 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 % 
