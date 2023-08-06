@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 July, 2023 - 04 August, 2023
+Week: 30 July, 2023 - 05 August, 2023
 
 Ruby         13 hrs 48 mins  ██████████████░░░░░░░░░░░   56.21 % 
 TOML         4 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
