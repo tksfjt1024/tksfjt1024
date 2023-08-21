@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 August, 2023 - 19 August, 2023
+Week: 14 August, 2023 - 20 August, 2023
 
 YAML         7 hrs 5 mins    █████████░░░░░░░░░░░░░░░░   36.38 % 
 Ruby         6 hrs 12 mins   ████████░░░░░░░░░░░░░░░░░   31.83 % 
