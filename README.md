@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 August, 2023 - 26 August, 2023
+Week: 21 August, 2023 - 27 August, 2023
 
 ActionScript 3   7 hrs 6 mins    ████████▓░░░░░░░░░░░░░░░░   34.77 % 
 YAML             6 hrs 9 mins    ███████▓░░░░░░░░░░░░░░░░░   30.08 % 
