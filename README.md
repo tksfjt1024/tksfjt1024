@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 August, 2023 - 02 September, 2023
+Week: 28 August, 2023 - 03 September, 2023
 
 YAML         5 hrs 50 mins   ███████████░░░░░░░░░░░░░░   43.49 % 
 TypeScript   2 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
