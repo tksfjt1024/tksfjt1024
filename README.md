@@ -15,12 +15,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 September, 2023 - 19 September, 2023
+Week: 14 September, 2023 - 20 September, 2023
 
-Ruby       6 hrs 3 mins    ██████████████████▓░░░░░░   75.17 % 
-YAML       59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-HTML       30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Slim       26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Ruby       6 hrs 32 mins   ████████████████████░░░░░   80.54 % 
+YAML       1 hr 3 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Slim       27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 Assembly   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 <!--END_SECTION:waka-->
