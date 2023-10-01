@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 September, 2023 - 29 September, 2023
+Week: 24 September, 2023 - 30 September, 2023
 
 Ruby        3 hrs 18 mins   █████████████████░░░░░░░░   67.35 % 
 YAML        26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
