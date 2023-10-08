@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 September, 2023 - 06 October, 2023
+Week: 01 October, 2023 - 07 October, 2023
 
 Ruby             4 hrs 11 mins   ███████████▒░░░░░░░░░░░░░   44.70 % 
 ActionScript 3   2 hrs 34 mins   ███████░░░░░░░░░░░░░░░░░░   27.41 % 
