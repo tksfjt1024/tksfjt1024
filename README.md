@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 October, 2023 - 21 October, 2023
+Week: 16 October, 2023 - 22 October, 2023
 
 YAML             9 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   31.37 % 
 Ruby             8 hrs 3 mins    ███████░░░░░░░░░░░░░░░░░░   27.39 % 
