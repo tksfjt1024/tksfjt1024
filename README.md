@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 November, 2023 - 16 November, 2023
+Week: 11 November, 2023 - 17 November, 2023
 
 YAML         12 hrs 35 mins  ████████████████░░░░░░░░░   63.82 % 
 Ruby         3 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.03 % 
