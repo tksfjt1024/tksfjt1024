@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2023 - 08 December, 2023
+Week: 03 December, 2023 - 09 December, 2023
 
 Ruby         8 hrs 33 mins   █████████░░░░░░░░░░░░░░░░   36.47 % 
 TypeScript   4 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.06 % 
