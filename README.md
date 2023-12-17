@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 December, 2023 - 15 December, 2023
+Week: 10 December, 2023 - 16 December, 2023
 
 Other        5 hrs 13 mins   █████████░░░░░░░░░░░░░░░░   35.62 % 
 Ruby         3 hrs 55 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.75 % 
