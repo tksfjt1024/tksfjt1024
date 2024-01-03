@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 December, 2023 - 01 January, 2024
+Week: 27 December, 2023 - 02 January, 2024
 
 Ruby         2 hrs 18 mins   ███████████████▒░░░░░░░░░   61.18 % 
 YAML         49 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.72 % 
