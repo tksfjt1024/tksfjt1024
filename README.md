@@ -15,11 +15,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2023 - 03 January, 2024
-
-Ruby         2 hrs 14 mins   ███████████████░░░░░░░░░░   60.54 % 
-YAML         49 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.10 % 
-Other        36 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
