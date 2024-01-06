@@ -15,6 +15,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 30 December, 2023 - 05 January, 2024
+
+Other    4 hrs 54 mins   █████████████████████████   99.94 % 
 ```
 <!--END_SECTION:waka-->
