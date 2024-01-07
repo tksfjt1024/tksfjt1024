@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2023 - 05 January, 2024
+Week: 31 December, 2023 - 06 January, 2024
 
 Other    4 hrs 54 mins   █████████████████████████   99.94 % 
 ```
