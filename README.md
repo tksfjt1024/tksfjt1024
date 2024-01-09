@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 January, 2024 - 07 January, 2024
+Week: 02 January, 2024 - 08 January, 2024
 
 Other    4 hrs 54 mins   █████████████████████████   99.94 % 
 ```
