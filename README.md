@@ -15,8 +15,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 January, 2024 - 08 January, 2024
+Week: 03 January, 2024 - 09 January, 2024
 
-Other    4 hrs 54 mins   █████████████████████████   99.94 % 
+Other        5 hrs 1 min     █████████████░░░░░░░░░░░░   52.54 % 
+Ruby         2 hrs 35 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.17 % 
+TypeScript   1 hr 18 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+YAML         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Bash         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Docker       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 <!--END_SECTION:waka-->
