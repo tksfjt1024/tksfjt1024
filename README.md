@@ -15,13 +15,14 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 January, 2024 - 17 January, 2024
+Week: 12 January, 2024 - 18 January, 2024
 
-Other        8 hrs 9 mins    ███████████████░░░░░░░░░░   60.12 % 
-Ruby         1 hr 59 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-YAML         1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Terraform    1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Markdown     45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Python       20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Other        5 hrs 25 mins   ████████████▒░░░░░░░░░░░░   49.94 % 
+Ruby         2 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+YAML         1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Terraform    1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Markdown     45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Python       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+TypeScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 ```
 <!--END_SECTION:waka-->
