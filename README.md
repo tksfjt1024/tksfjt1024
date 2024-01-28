@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 January, 2024 - 26 January, 2024
+Week: 21 January, 2024 - 27 January, 2024
 
 Other    4 hrs 59 mins   █████████████████▒░░░░░░░   69.87 % 
 Ruby     2 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   29.06 % 
