@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 January, 2024 - 02 February, 2024
+Week: 28 January, 2024 - 03 February, 2024
 
 Other       6 hrs 34 mins   █████████▓░░░░░░░░░░░░░░░   38.49 % 
 YAML        4 hrs           ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
