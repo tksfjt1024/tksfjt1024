@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 February, 2024 - 10 February, 2024
+Week: 05 February, 2024 - 11 February, 2024
 
 Other      8 hrs 22 mins   █████████████▓░░░░░░░░░░░   54.83 % 
 Python     2 hrs 38 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.32 % 
