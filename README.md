@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 February, 2024 - 23 February, 2024
+Week: 18 February, 2024 - 24 February, 2024
 
 Other      1 hr 4 mins     ███████████▓░░░░░░░░░░░░░   47.14 % 
 Ruby       55 mins         ██████████░░░░░░░░░░░░░░░   40.29 % 
