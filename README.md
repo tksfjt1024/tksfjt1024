@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 March, 2024 - 16 March, 2024
+Week: 11 March, 2024 - 17 March, 2024
 
 Ruby         26 mins         █████████▒░░░░░░░░░░░░░░░   37.34 % 
 Python       22 mins         ████████░░░░░░░░░░░░░░░░░   31.36 % 
