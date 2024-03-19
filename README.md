@@ -15,11 +15,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 March, 2024 - 17 March, 2024
+Week: 12 March, 2024 - 18 March, 2024
 
-Ruby         26 mins         █████████▒░░░░░░░░░░░░░░░   37.34 % 
-Python       22 mins         ████████░░░░░░░░░░░░░░░░░   31.36 % 
-YAML         19 mins         ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-TypeScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Python       22 mins         ██████████████▓░░░░░░░░░░   58.45 % 
+Ruby         13 mins         ████████▓░░░░░░░░░░░░░░░░   34.90 % 
+TypeScript   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 ```
 <!--END_SECTION:waka-->
