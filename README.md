@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 March, 2024 - 23 March, 2024
+Week: 18 March, 2024 - 24 March, 2024
 
 Python   28 mins         ███████████████░░░░░░░░░░   59.64 % 
 Other    14 mins         ███████▒░░░░░░░░░░░░░░░░░   29.08 % 
