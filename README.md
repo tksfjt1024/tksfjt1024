@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 March, 2024 - 30 March, 2024
+Week: 25 March, 2024 - 31 March, 2024
 
 Other      4 mins          █████████████▒░░░░░░░░░░░   53.40 % 
 YAML       4 mins          ███████████▒░░░░░░░░░░░░░   44.71 % 
