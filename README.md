@@ -15,10 +15,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 March, 2024 - 01 April, 2024
+Week: 27 March, 2024 - 02 April, 2024
 
-Other      5 hrs 24 mins   ███████████████████████▒░   93.54 % 
-Python     18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-YAML       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Other    9 hrs 21 mins   ██████████████████████▒░░   89.00 % 
+Python   1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
 ```
 <!--END_SECTION:waka-->
