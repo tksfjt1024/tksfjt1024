@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 March, 2024 - 06 April, 2024
+Week: 01 April, 2024 - 07 April, 2024
 
 Other    10 hrs 36 mins  ███████████████████▓░░░░░   78.22 % 
 Python   2 hrs 50 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.90 % 
