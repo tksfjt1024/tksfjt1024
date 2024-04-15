@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 April, 2024 - 13 April, 2024
+Week: 08 April, 2024 - 14 April, 2024
 
 Ruby       3 hrs 56 mins   ███████░░░░░░░░░░░░░░░░░░   27.61 % 
 YAML       3 hrs 18 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.16 % 
