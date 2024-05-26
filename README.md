@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 May, 2024 - 24 May, 2024
+Week: 19 May, 2024 - 25 May, 2024
 
 Ruby         9 hrs 30 mins   █████████████░░░░░░░░░░░░   52.39 % 
 Slim         4 hrs 40 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.76 % 
