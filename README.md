@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 June, 2024 - 08 June, 2024
+Week: 03 June, 2024 - 09 June, 2024
 
 Ruby         5 hrs 3 mins    ██████████████████▒░░░░░░   72.81 % 
 Bash         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
