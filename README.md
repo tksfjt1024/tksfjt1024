@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 June, 2024 - 22 June, 2024
+Week: 17 June, 2024 - 23 June, 2024
 
 Other      4 hrs 22 mins   ████████░░░░░░░░░░░░░░░░░   31.97 % 
 Docker     2 hrs 41 mins   █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
