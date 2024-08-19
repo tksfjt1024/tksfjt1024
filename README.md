@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 August, 2024 - 17 August, 2024
+Week: 12 August, 2024 - 18 August, 2024
 
 Ruby       5 hrs 47 mins   ████████████████▓░░░░░░░░   67.30 % 
 ERB        1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 % 
