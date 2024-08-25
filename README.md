@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 August, 2024 - 23 August, 2024
+Week: 18 August, 2024 - 24 August, 2024
 
 Ruby          4 hrs 1 min     █████████▒░░░░░░░░░░░░░░░   37.52 % 
 Slim          2 hrs 21 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.01 % 
