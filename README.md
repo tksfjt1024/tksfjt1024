@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 September, 2024 - 07 September, 2024
+Week: 02 September, 2024 - 08 September, 2024
 
 Ruby          14 hrs 47 mins  █████████████████░░░░░░░░   67.66 % 
 Slim          2 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
