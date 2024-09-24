@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 September, 2024 - 22 September, 2024
+Week: 17 September, 2024 - 23 September, 2024
 
 Ruby         5 hrs 6 mins    █████████████████▒░░░░░░░   68.69 % 
 Python       1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 % 
