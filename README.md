@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 October, 2024 - 25 October, 2024
+Week: 20 October, 2024 - 26 October, 2024
 
 Slim         7 hrs 28 mins   ████████████▒░░░░░░░░░░░░   49.52 % 
 Ruby         4 hrs 28 mins   ███████▒░░░░░░░░░░░░░░░░░   29.61 % 
