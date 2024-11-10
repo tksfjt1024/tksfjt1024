@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 November, 2024 - 08 November, 2024
+Week: 03 November, 2024 - 09 November, 2024
 
 Slim         6 hrs 35 mins   ███████████████░░░░░░░░░░   59.62 % 
 SCSS         1 hr 45 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
