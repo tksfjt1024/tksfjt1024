@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 November, 2024 - 29 November, 2024
+Week: 24 November, 2024 - 30 November, 2024
 
 Ruby         11 hrs 24 mins  ████████████▓░░░░░░░░░░░░   51.31 % 
 Slim         5 hrs 29 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.71 % 
