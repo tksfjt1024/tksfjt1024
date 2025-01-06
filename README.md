@@ -15,11 +15,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 December, 2024 - 04 January, 2025
+Week: 30 December, 2024 - 05 January, 2025
 
-Ruby       1 hr 2 mins     ███████████████░░░░░░░░░░   59.50 % 
-Slim       30 mins         ███████░░░░░░░░░░░░░░░░░░   28.63 % 
-YAML       8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Other      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Slim   6 mins          ███████████████████░░░░░░   75.68 % 
+Ruby   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 % 
 ```
 <!--END_SECTION:waka-->
