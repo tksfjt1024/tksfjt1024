@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2024 - 05 January, 2025
+Week: 31 December, 2024 - 06 January, 2025
 
 Slim   6 mins          ███████████████████░░░░░░   75.68 % 
 Ruby   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 % 
