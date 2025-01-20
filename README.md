@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 January, 2025 - 18 January, 2025
+Week: 13 January, 2025 - 19 January, 2025
 
 Ruby       14 hrs 57 mins  ██████████████████░░░░░░░   72.13 % 
 Slim       3 hrs 23 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
