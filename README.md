@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 March, 2025 - 22 March, 2025
+Week: 17 March, 2025 - 23 March, 2025
 
 Ruby          2 hrs 10 mins   ██████████▒░░░░░░░░░░░░░░   41.60 % 
 Other         1 hr 16 mins    ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
