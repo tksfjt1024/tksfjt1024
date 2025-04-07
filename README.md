@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 March, 2025 - 05 April, 2025
+Week: 31 March, 2025 - 06 April, 2025
 
 Ruby          8 hrs 50 mins   ██████████████▓░░░░░░░░░░   58.23 % 
 Slim          2 hrs 39 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.50 % 
