@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 May, 2025 - 31 May, 2025
+Week: 26 May, 2025 - 01 June, 2025
 
 Ruby         9 hrs 46 mins   ████████▓░░░░░░░░░░░░░░░░   35.12 % 
 Other        5 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.38 % 
