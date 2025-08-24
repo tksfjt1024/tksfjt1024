@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 August, 2025 - 22 August, 2025
+Week: 17 August, 2025 - 23 August, 2025
 
 Ruby         4 hrs 17 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.66 % 
 YAML         3 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
