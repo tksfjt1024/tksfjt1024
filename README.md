@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 September, 2025 - 17 September, 2025
+Week: 12 September, 2025 - 18 September, 2025
 
 Ruby         1 hr 55 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.99 % 
 TypeScript   1 hr 31 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.19 % 
