@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 September, 2025 - 27 September, 2025
+Week: 22 September, 2025 - 28 September, 2025
 
 JSON     1 hr 49 mins    █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
 Python   1 hr 18 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 % 
