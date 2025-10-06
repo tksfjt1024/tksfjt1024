@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 September, 2025 - 04 October, 2025
+Week: 29 September, 2025 - 05 October, 2025
 
 Ruby         2 hrs 31 mins   ███████░░░░░░░░░░░░░░░░░░   28.38 % 
 Slim         2 hrs 25 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.13 % 
