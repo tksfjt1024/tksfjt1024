@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 October, 2025 - 12 October, 2025
+Week: 07 October, 2025 - 13 October, 2025
 
 Ruby         1 hr 36 mins    █████████░░░░░░░░░░░░░░░░   36.43 % 
 JSON         1 hr 33 mins    ████████▓░░░░░░░░░░░░░░░░   35.21 % 
